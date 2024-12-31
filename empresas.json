@@ -1,16 +1,16 @@
 [
 	{
-		"empresax": [
+		"empresax": {
 			"url": "https://www.empresax.com.br",
 			"email" "contato@empresax.com.br",
-			"fone": "+551612345678"
-		]
+			"fone": "+551612345678",
+		}
 	},
 	{
-		"empresay": [
+		"empresay": {
 			"url": "https://www.empresay.com.br",
 			"email" "contato@empresay.com.br",
-			"fone": "+551687654321"
-		]
-	}
+			"fone": "+551687654321",
+		}
+	},
 ]
