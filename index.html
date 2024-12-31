@@ -13,7 +13,11 @@
   <script>
 	fetch('empresas.json')
 	  .then(response => response.json())
-	  .then(data => console.log(data))
+	  .then(data => {
+			console.log(data)
+			alert(data[1].empresay.email);
+		})
 	  .catch(error => console.error('Error:', error));
+	
   </script>
 </html>
